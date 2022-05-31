@@ -9,10 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=r-muccio&style=flat-square&color=blue" alt=""/> 
 </div>
 
+<br/>
 
 <div>
   <h2>About me:</h2>
-  <p>I'm a full stack web developer from Ontario, Canada.</p>
+  <p>Full stack web developer from Ontario, Canada.</p>
   <ul>
     <li>🔭 Looking for a full-time position.</li>
     <li>:1st_place_medal: Completed Concordia University's Full-stack Web Development Bootcamp (MERN stack).</li>
@@ -22,6 +23,7 @@
   </ul>
  </div>
  
+ <br/>
  
  <div id="languages">
   <h2>:hammer_and_wrench: Current toolkit:</h2>
@@ -37,9 +39,11 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
+<br/>
 
 <h2>:fire: My stats:</h2>
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-muccio)](https://github.com/r-muccio/github-readme-stats) -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-muccio&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=r-muccio&theme=dark&background=000000)](https://git.io/streak-stats)
 
