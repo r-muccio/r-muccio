@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<!--   <img src="https://res.cloudinary.com/carepackageconnect/image/upload/v1653963897/v0u5bwi7hwoptmuwhpdw.png" width="125"/> -->
+  <img src="https://res.cloudinary.com/carepackageconnect/image/upload/v1653963897/v0u5bwi7hwoptmuwhpdw.png" width="125"/>
   <h1>Welcome to my GitHub profile! 👋</h1>
   <div id="linked-in">
     <a href="https://www.linkedin.com/in/ross-muccio-735068240/">
@@ -8,6 +8,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=r-muccio&style=flat-square&color=blue" alt=""/> 
 </div>
+
 
 <div>
   <h2>About me:</h2>
@@ -20,6 +21,7 @@
     <li>⚡ Fun fact: I love to build and fix things, whether it's web applications or cars.</li>
   </ul>
  </div>
+ 
  
  <div id="languages">
   <h2>:hammer_and_wrench: Current toolkit:</h2>
@@ -35,9 +37,13 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
-<div id="stats">
-</div>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=r-muccio&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<h2>:fire: My stats:</h2>
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-muccio)](https://github.com/r-muccio/github-readme-stats) -->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=r-muccio&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-muccio&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
