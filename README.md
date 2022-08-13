@@ -18,7 +18,7 @@
     <li>🔭 Looking for a full-time position.</li>
     <li>:1st_place_medal: Completed Concordia University's Full-stack Web Development Bootcamp (MERN stack).</li>
     <li>:1st_place_medal: Completed the Linux Foundation's Open Source Software Development, Linux and Git Specialization through Coursera.</li>
-    <li>🌱 Currently learning React Redux.</li>
+    <li>🌱 Currently learning PostgreSQL.</li>
     <li>⚡ Fun fact: I love to build and fix things, whether it's web applications or cars.</li>
   </ul>
  </div>
